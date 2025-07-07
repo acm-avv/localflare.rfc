@@ -4,7 +4,6 @@ Submissions repository for `ASOC2` - Local-First Desktop App To Ease Ops with Cl
 > [!NOTE]
 All discussions regarding `ASOC2: Local-First Desktop App to Ease Ops with Cloudflare` shall take place in https://github.com/orgs/acm-avv/discussions/10.
 
-https://github.com/acm-avv/localflare.rfc
 
 ## Overview
 In-order to be eligible to work on this project as **Request for Code** under the banner of **Amrita Summer of Code, 2025**, you are required to form a team of size 1-4 and have all the members register at [amsoc.vercel.app](https://amsoc.vercel.app)
