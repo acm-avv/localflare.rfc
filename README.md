@@ -28,3 +28,22 @@ Type out a message in https://github.com/orgs/acm-avv/discussions/10 with the fo
 2. Do not try to contact the project manager personally unless they are open to it.
 4. Maintain decorum and avoid any misbehavior with the project manager. This can be subjected to disqualification.
 5. Send us an update every week with regards to your progress for your respective project. If we do not receive an update for more than 10 days then your team will be disqualified automatically.
+
+---
+## Project Description
+
+A **Local-First Desktop App** will be developed to simplify Cloudflare operations for developers, focusing on convenience and security without relying on backend servers.
+
+* **Application Type:** Desktop Application.
+* **Technology Stack:**
+    * **Frontend:** React (without Next.js).
+    * **Backend/Framework:** Tauri (Rust).
+* **Cloudflare Integration:**
+    * Utilizes Cloudflare SDKs for direct interaction.
+    * Incorporates cURL integration for enhanced functionality and ease of use.
+* **Architectural Approach:**
+    * **Local-First:** Designed to operate primarily on the user's local machine.
+    * **No Backend Servers:** Eliminates the need for external backend infrastructure, enhancing security and simplifying deployment.
+* **Purpose:**
+    * Serves as a convenience tool for developers.
+    * Facilitates secure development workflows related to Cloudflare.
